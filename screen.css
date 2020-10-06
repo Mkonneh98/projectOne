@@ -38,6 +38,11 @@ img {
 	float: center;
 
 }
+input[type=submit]{
+  border-color: gold;
+  color: #ADAD8B;
+}
+
 @media only screen and (max-width: 1000px) { 
   body, h1, h2, label, div, input {
 	text-align: center;
