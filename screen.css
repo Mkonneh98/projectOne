@@ -56,6 +56,7 @@ img {
   }
 }
 
-.differentbutton:hover {
-  border: 1px solid Grey;
+.color_switch {
+  background-color: grey;
+  
 }
