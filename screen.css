@@ -1,8 +1,9 @@
 body {
+  background-color: grey;
   font: Times New Roman;
 }
 title {
-
+	border-bottom: 2px solid blue;
 }
 h1 {
 	border:  3px outset white; 
