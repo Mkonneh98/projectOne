@@ -4,22 +4,24 @@ body {
   background-color: #FFFFCC;
 }
 h1 {
-	border:3px outset blue; 
-	
-	
+	border:3px outset silver; 
+	background-color: #ADAD8B;
 }
 h2 {
-	border:2px outset blue; 
-	font-size: 6px;
+	border:2px outset silver; 
+	font-size: 16px;
+	background-color: #ADAD8B;
 }
 label {
-	
+	border:2px outset gold; 
+	font-size: 16px;
+	background-color: #ADAD8B;
 }
 input {
 	
 }
 img {
-	border: 2px solid blue;
+	border: 2px solid grey;
 	display: inline;
 	float: center;
 	
