@@ -19,6 +19,7 @@ label {
 	font-size: 16px;
 	background-color: #ADAD8B;
 	padding: 5px 10px;
+	text-align: center;
 }
 input {
   border-radius: 10px;
@@ -26,6 +27,7 @@ input {
   background-color: #ADAD8B;
   padding: 5px 10px;
   margin-top: 5px;
+  text-align: center;
 }
 img {
 	border: 2px solid grey;
