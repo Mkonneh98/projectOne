@@ -1,17 +1,23 @@
 body {
   font: Times New Roman;
+  text-align: center;
 }
 h1 {
 	border:3px outset blue; 
+	
 }
 h2 {
 	border:3px outset blue; 
+	
 }
 label {
+	
 }
 input {
+	
 }
 img {
 	display: inline;
 	float: center;
+	
 }
