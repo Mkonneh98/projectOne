@@ -1,14 +1,16 @@
 body {
   font: Times New Roman;
   text-align: center;
+  background-color: #FFFFCC;
 }
 h1 {
 	border:3px outset blue; 
 	
+	
 }
 h2 {
-	border:3px outset blue; 
-	
+	border:2px outset blue; 
+	font-size: 6px;
 }
 label {
 	
@@ -17,6 +19,7 @@ input {
 	
 }
 img {
+	border: 2px solid blue;
 	display: inline;
 	float: center;
 	
