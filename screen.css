@@ -27,9 +27,6 @@ input {
   padding: 5px 10px;
   margin-top: 5px;
 }
-div {	
-	border-radius: 10px;
-  }
 img {
 	border: 2px solid grey;
 	display: inline;
@@ -38,7 +35,7 @@ img {
 }
 
 @media only screen and (max-width: 1000px) { 
-  body, h1, h2, label, div, input {
+  body, h1, h2, label, input {
 	text-align: center;
 	display: block;
     margin-left: auto;
@@ -47,7 +44,7 @@ img {
   }
 }
 @media only screen and (min-width: 750px) { 
-   body, h1, h2, label, div, input {
+   body, h1, h2, label, input {
 	text-align: center;
 	display: block;
     margin-left: auto;
