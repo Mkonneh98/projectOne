@@ -35,3 +35,19 @@ img {
 	float: center;
 	
 }
+@media only screen and (max-width: 1000px) { 
+  body, h1, h2, label, input {
+	text-align: center;
+	display: block;
+    margin-left: auto;
+	margin-right: auto;
+	font-size: 75%;
+  }
+@media only screen and (min-width: 750px) { 
+   body, h1, h2, label, input {
+	text-align: center;
+	display: block;
+    margin-left: auto;
+	margin-right: auto;
+	font-size: 125%;
+  }
