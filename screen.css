@@ -1,5 +1,5 @@
 body {
-  font: Times New Roman;
+  font: Comic Sans;
   text-align: center;
   background-color: #FFFFCC;
 }
@@ -30,7 +30,6 @@ input {
 img {
 	border: 2px solid grey;
 	display: inline;
-	float: center;
 
 }
 
