@@ -1,23 +1,25 @@
 body {
   background-color: grey;
   font: Times New Roman;
-  border: white; 
 }
 title {
 	text-align: center;
-	border-style: outset;
+	border-style: solid;
 	border-color: orange;
-	border-width: 5px;
+	border-width: 2px;
 }
 h1 {
-	
+	text-align: center;
+	border-style: solid;
+	border-color: orange;
+	border-width: 2px;
 }
 h2 {
-	
+	text-align: center;
 }
 label {
-	
+	text-align: center;
 }
 input {
-	
+	text-align: center;
 }
