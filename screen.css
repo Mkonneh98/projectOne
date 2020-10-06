@@ -1,12 +1,11 @@
 body {
-  background-color: grey;
   font: Times New Roman;
 }
 title {
 
 }
 h1 {
-	border:  3px outset white;
+	border:  3px outset white; 
 }
 h2 {
 }
