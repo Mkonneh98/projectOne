@@ -15,11 +15,12 @@ h2 {
 	padding: 5px 10px;
 }
 label {
-	border:2px outset gold; 
+	border-bottom-style:solid;
+	border-color: gold;
 	font-size: 16px;
-	background-color: #ADAD8B;
 	padding: 5px 10px;
 	text-align: center;
+	
 }
 input {
   border-radius: 10px;
