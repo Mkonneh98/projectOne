@@ -1,3 +1,8 @@
+@font-face {
+	font-family: 'SansationLight';
+	src: url('./SansationLight.eot');
+	src: local('SansationLight'), url('./SansationLight.woff') format('woff'), url('./SansationLight.ttf') format('truetype');
+}
 body {
   text-align: center;
   background-color: #ffffcc;
@@ -7,6 +12,7 @@ h1 {
   background-color: #adad8b;
   padding: 5px 10px;
   line-height: 1.6;
+  font-family: Optima, sans-serif;
 }
 h2 {
   border: 2px outset silver;
