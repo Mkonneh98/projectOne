@@ -1,7 +1,7 @@
 @font-face {
-	font-family: 'SansationLight';
-	src: url('./SansationLight.eot');
-	src: local('SansationLight'), url('./SansationLight.woff') format('woff'), url('./SansationLight.ttf') format('truetype');
+  font-family: 'SansationLight';
+  src: url('./SansationLight.eot');
+  src: local('SansationLight'), url('./SansationLight.woff') format('woff'), url('./SansationLight.ttf') format('truetype');
 }
 body {
   text-align: center;
@@ -14,20 +14,14 @@ h1 {
   line-height: 1.6;
   font-family: Optima, sans-serif;
 }
-h2 {
-  border: 2px outset silver;
-  font-size: 16px;
-  background-color: #adad8b;
-  padding: 5px 10px;
-  line-height: 1.6;
-}
 label {
-  font-size: 16px;
+  font-size: 30px;
   padding: 5px 10px;
   text-align: center;
   line-height: 2.0;
 }
 input {
+  width: 100%;
   border-radius: 10px;
   border-color: silver;
   background-color: #adad8b;
@@ -35,12 +29,14 @@ input {
   margin-top: 5px;
 }
 .button1 {
+  border-radius: 10px;
   background-color: #adad8b;
   color: white;
   font-weight: bold;
   text-shadow: 2px 2px #1a0000;
   line-height: 3.0;
-  padding: 5px 30px
+  padding: 5px 30px;
+  margin-top: 30px;
 }
 .button1:hover {
   background: #3B3B2B;
@@ -53,7 +49,6 @@ img {
 @media only screen and (max-width: 1600px) {
   body,
   h1,
-  h2,
   label,
   input, 
   img{
@@ -69,7 +64,6 @@ img {
 @media only screen and (max-width: 750px) {
   body,
   h1,
-  h2,
   label,
   input,
   img{
